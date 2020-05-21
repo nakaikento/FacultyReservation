@@ -1,0 +1,7 @@
+com.mamezou.commons.io
+com.mamezou.commons.utility
+com.mamezou.ers.business
+com.mamezou.ers.dataaccess
+com.mamezou.ers.exceptions
+com.mamezou.ers.ui
+com.mamezou.ers.ui.utility
